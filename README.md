@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**omarmohamedmagdyy/omarmohamedmagdyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Omar.
 
-Here are some ideas to get you started:
+An aspiring AI Engineer passionate about building intelligent solutions, automation workflows, and practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Artificial Intelligence, Machine Learning, and AI Automation through academic projects and hands-on practice.
+
+This profile is where I share my university projects, personal experiments, and everything I'm building as I continue growing in AI and software development.
+
+
+---
+
+
+## Tools & Tech
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- n8n (Basic)
+- SQL (Basic)
+- Git & GitHub
+- HTML & CSS
+
+
+---
+
+
+## Current Focus
+
+- 🤖 Building AI-powered applications
+- ⚙️ Learning AI Automation with n8n
+- 🧠 Improving my Machine Learning skills
+- 📊 Exploring Natural Language Processing (NLP)
+- 🚀 Developing practical AI projects
+
+
+---
+
+
+## A Bit About Me
+
+- 🎓 Computer and Information Science undergraduate
+- 🤖 Passionate about AI and intelligent systems
+- 📈 I enjoy learning by building real projects
+- 💡 Always exploring new technologies
+- 🚀 My goal is to build AI solutions that solve real-world problems
+
+
+---
+
+
+
+
+Thanks for stopping by! 👋
